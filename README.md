@@ -1,4 +1,4 @@
-# Pengecekan Pending Order layanan Domain CloudKilat
+# Pengecekan Pending Order layanan Domain KilatDomain
 
 Hal ini dilakukan untuk melakukan pengecekan **Pending Order** untuk layanan **KilatDomain**. **Pending Order** ini berguna untuk memastikan kembali bahwa layanan yang dipesan sudah dibayar dan layanan dapat dipastikan benar-benar aktif.
 
